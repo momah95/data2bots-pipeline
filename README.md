@@ -1,4 +1,4 @@
-# data2bots
+# Data2bots Task
 This was a data engineering project for a company.
 
 First thing I did was to attempt to extract the data from the s3 bucket and inspect it. I was only able to download 2 csv files, I kept getting a name error for the last one, since the bucket was public I was able to inspect it using my own aws account and figured out that there was a spelling error in the pdf file sent to us, I corrected it and was able to download the last file.
